@@ -16,7 +16,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import org.xyc.redis.spring.RedisSpring;
 
 /**
- * Created by CCC on 2016/5/16.
+ * Created by wks on 2016/5/16.
  */
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(locations = "classpath:spring-redis.xml")
