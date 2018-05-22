@@ -9,4 +9,6 @@ public class JedisConstants {
     public static final String REDIS_SHARD = "redis.shard";
 
     public static final String DOT = ".";
+
+    public static final String REDIS_SENTINEL = "redis.sentinel";
 }
